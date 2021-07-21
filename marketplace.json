@@ -17,7 +17,7 @@
     "app_image_urls": [
         "https://raw.githubusercontent.com/Dudemullet/quest/b8b7f3d7eed66a079d1302d29273ecb4b504bd69/architecture.png"
     ], // Provide any image urls in an array.
-    "youtube_url": "https://youtu.be/B0lwOWWwHgY", //Provide a Youtube link to your app's video
+    "youtube_url": "https://www.youtube.com/watch?v=B0lwOWWwHgY", //Provide a Youtube link to your app's video
     "special_tags": ["Hackathon"], // "Hackathon", "Paid", or any event names.
     "verticals": ["Technology"], // Can be: "Healthcare", "Financial", "Tourism", "Retail", "Oil & Gas", "Manufacturing", "Technology","Education", "Construction"
     "markdown": "https://raw.githubusercontent.com/Dudemullet/quest/main/README.md", // Link to the RAW Markdown.
